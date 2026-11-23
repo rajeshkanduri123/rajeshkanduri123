@@ -85,7 +85,7 @@ Artificial Intelligence and Machine Learning (AIML)
 
 **Technologies:** HTML, CSS, JavaScript
 
-### 3. GenZ LMS – Learning Management System
+###  * GenZ LMS – Learning Management System
 
 <kbd>In Progress</kbd>
 
