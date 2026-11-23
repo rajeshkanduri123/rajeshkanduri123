@@ -83,16 +83,6 @@ Artificial Intelligence and Machine Learning (AIML)
 
 ## Featured Projects
 
-### 1. Calculator
-
-A basic calculator application developed to practice programming logic and build an interactive user interface.
-
-**Technologies:** HTML, CSS, JavaScript
-
-### 2. Login & Signup UI
-
-A user authentication interface project focused on form design, styling, and user interaction.
-
 **Technologies:** HTML, CSS, JavaScript
 
 ### 3. GenZ LMS – Learning Management System
